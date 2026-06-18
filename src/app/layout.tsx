@@ -23,7 +23,7 @@ export default function RootLayout({
           <nav className="sidebar">
             <Link href="/">
               <img
-                src="/assets/img/ridho-nurul-adilla.jpg"
+                src="/public/img/ridho-nurul-adilla.jpg"
                 alt="Ridho Nurul Adilla"
                 className="sidebar-profile"
               />

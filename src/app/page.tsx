@@ -203,10 +203,6 @@ export default function Home() {
           </p>
         </div>
         
-        <footer style={{ marginTop: '5rem', textAlign: 'center', color: 'var(--text-secondary)', borderTop: '1px solid var(--card-border)', paddingTop: '2rem' }}>
-          <p style={{ marginBottom: '0.5rem' }}>© 2026 Ridho Nurul Adilla. All rights reserved.</p>
-          <small>Site reliability monitored by <a href="https://uptimerobot.com/?red=ridhon" target="_blank" rel="noreferrer" style={{ textDecoration: 'underline' }}>UptimeRobot</a></small>
-        </footer>
       </section>
     </>
   );

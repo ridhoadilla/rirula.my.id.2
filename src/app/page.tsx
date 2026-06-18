@@ -173,19 +173,19 @@ export default function Home() {
         <div style={{ display: 'flex', flexDirection: 'column', gap: '2rem' }}>
           <div className="glass-card">
             <h3>Google Cloud Engineer Associates</h3>
-            <a href="/assets/certificates/AssociateCloudEngineer_google_ridho_nurul_adilla.pdf" target="_blank" rel="noreferrer" className="text-primary" style={{ display: 'inline-block', marginTop: '1rem' }}>
+            <a href="/public/certificates/AssociateCloudEngineer_google_ridho_nurul_adilla.pdf" target="_blank" rel="noreferrer" className="text-primary" style={{ display: 'inline-block', marginTop: '1rem' }}>
               <i className="fas fa-file-pdf" style={{ marginRight: '10px' }}></i> View Certificate
             </a>
           </div>
           <div className="glass-card">
             <h3>Google Cloud Engineer Professional</h3>
-            <a href="/assets/certificates/PCA-ridhona.pdf" target="_blank" rel="noreferrer" className="text-primary" style={{ display: 'inline-block', marginTop: '1rem' }}>
+            <a href="/public/certificates/PCA-ridhona.pdf" target="_blank" rel="noreferrer" className="text-primary" style={{ display: 'inline-block', marginTop: '1rem' }}>
               <i className="fas fa-file-pdf" style={{ marginRight: '10px' }}></i> View Certificate
             </a>
           </div>
           <div className="glass-card">
             <h3>Dynatrace Associate Certification</h3>
-            <a href="/assets/certificates/RidhoNurulAdilla_Dynatrace Associate Certification.pdf" target="_blank" rel="noreferrer" className="text-primary" style={{ display: 'inline-block', marginTop: '1rem' }}>
+            <a href="/public/certificates/RidhoNurulAdilla_Dynatrace Associate Certification.pdf" target="_blank" rel="noreferrer" className="text-primary" style={{ display: 'inline-block', marginTop: '1rem' }}>
               <i className="fas fa-file-pdf" style={{ marginRight: '10px' }}></i> View Certificate
             </a>
           </div>
